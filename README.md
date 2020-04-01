@@ -1,3 +1,6 @@
+**Archived on 1-apr-2020 - This repository is for reference only, it contains security issuess!!**
+---
+
 This is a mavenized copy of https://github.com/SteveyO/Hue-Emulator
 
 Hue-Emulator
